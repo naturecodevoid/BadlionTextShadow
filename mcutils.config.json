@@ -1,0 +1,11 @@
+{
+    "variations": [],
+    "basePack": {
+        "name": "Badlion Text Shadow",
+        "path": "pack"
+    },
+    "outPath": "out",
+    "buildJava": true,
+    "buildBedrock": false,
+    "buildBasePack": true
+}
